@@ -6,9 +6,8 @@
 <div align="center">
   <img src="https://github-readme-stats-coral-alpha-95.vercel.app/api/top-langs?username=illinov&layout=compact&theme=dracula" alt="Top languages" />
   <img src="https://github-readme-stats-coral-alpha-95.vercel.app/api?username=illinov&show_icons=true&theme=dracula" alt="GitHub stats" />
-
-
 </div>
+
 
 ###
 
